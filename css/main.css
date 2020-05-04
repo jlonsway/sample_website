@@ -4,3 +4,38 @@
 .nav-spacing {
   margin: 0 0 0 10px;
 }
+.image-link {
+  text-decoration: none;
+}
+.center-image {
+  display: block;
+  margin: 0 auto;
+  width: 50%;
+}
+.center-report {
+  width: 500px;
+  margin: 20px auto;
+  padding: 30px;
+  background-color: #fafafa;
+}
+.image-float {
+  float: left;
+  margin: 0 40px 0 0;
+}
+.lead {
+  font-style: normal;
+  font-size: 24px;
+  font-weight: bold;
+  color: #ff0000;
+}
+td {
+  padding-right: 20px;
+}
+header {
+  text-align: center;
+  margin: 0 0 80px;
+}
+blockquote {
+  font-style: italic;
+  font-size: 20px;
+}
